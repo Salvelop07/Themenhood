@@ -1,7 +1,7 @@
 {
-  "name": "ecommerce",
+  "name": "Themenhood",
   "version": "1.0.0",
-  "description": "An ecommerce website.",
+  "description": "Themenhood is a robust eCommerce web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). 🛒✨ It provides a feature-rich platform that makes online shopping easy and convenient for users. 💻🛍️",
   "main": "index.ts",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "lint:fix": "eslint 'src/**/*.{ts,tsx}' --fix",
     "format": "prettier --write 'src/**/*.{ts,tsx}'"
   },
-  "author": "Suraj Aswal",
+  "author": "Salvelop07",
   "license": "ISC",
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
